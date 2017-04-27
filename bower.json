@@ -1,0 +1,28 @@
+{
+  "name": "postcss-shift",
+  "description": "Parse and expand shift-js variables and expressions with PostCSS",
+  "main": "index.js",
+  "authors": [
+    "Yoannis Jamar <yoannis.j@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "PostCSS",
+    "CSS",
+    "Sass",
+    "stylesheets",
+    "breakpoints",
+    "responsive",
+    "Shift-js",
+    "variables",
+    "media-queries"
+  ],
+  "homepage": "https://github.com/yoannisj/postcss-shift",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
