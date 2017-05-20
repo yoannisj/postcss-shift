@@ -28,7 +28,8 @@
   },
   "homepage": "https://github.com/yoannisj/postcss-shift#readme",
   "dependencies": {
-    "postcss": "^5.2.17",
-    "postcss-scss": "^0.4.1"
+    "postcss": "^6.0.1",
+    "postcss-scss": "^0.4.1",
+    "postcss-simple-vars": "^4.0.0"
   }
 }
